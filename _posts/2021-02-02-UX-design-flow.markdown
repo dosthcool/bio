@@ -7,7 +7,7 @@ permalink: /uxflow/
 excerpt_separator: <!--more-->
 ---
 
-<!-- ![bg]({{ site.url }}/assets/img/1_1.png) -->
+![bg](https://dosthcool.github.io/blog/img/1_1.png)
 
 野路子和大厂流水线的设计流程不分好坏，只有适不适合。<br>
 这里只分享适合鄙人的方法，毕竟我一直单打独斗好多年，不沉淀点东西说不过去。<br>
