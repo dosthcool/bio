@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "dosth.cool" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-# permalink: pretty
+permalink: pretty
 
 # Build settings
 markdown: kramdown
@@ -34,7 +34,8 @@ defaults:
       path: "assets/img"
     values:
       image: true
-
+      
+excerpt_separator: <!--more-->
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
