@@ -4,6 +4,7 @@ title:  "我常用的设计流程"
 date:   2021-02-01 00:15:52 +0100
 categories: design
 permalink: /uxflow/
+excerpt_separator: <!--more-->
 ---
 
 ![bg](1_1.png)
@@ -13,6 +14,7 @@ permalink: /uxflow/
 这个流程通常也可以运用于独立完成一个项目或者设计测试题。<br>
 > 设计思维是我的工具箱，设计流程是一套组合拳，要想致命就要选好组合。<br>
 
+<!--more-->
 
 ### 1. 课题解析
 
