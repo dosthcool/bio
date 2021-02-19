@@ -29,12 +29,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
-      
 excerpt_separator: <!--more-->
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
