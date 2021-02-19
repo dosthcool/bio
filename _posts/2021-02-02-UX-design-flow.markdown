@@ -3,6 +3,7 @@ layout: post
 title:  "我常用的设计流程"
 date:   2021-02-01 00:15:52 +0100
 categories: design
+permalink: /uxflow/
 ---
 
 ![bg](img/1_1.png)
