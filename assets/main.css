@@ -35,7 +35,7 @@ ul, ol, dl, figure,
 }
 
 p{
-  padding: 2px 0px 16px;
+  padding: 12px 0px 12px;
   font-size: 16px;
   line-height: 1.8;
 }
@@ -47,9 +47,10 @@ h1, h2, h3 {
 h1{
   font-size: 2.8rem;
 }
+
 h2{
   margin: 0px;
-  font-size: 36px;
+  font-size: 3rem;
   font-weight: 450;
 }
 
@@ -117,13 +118,13 @@ h5, h6 {
  * Links
  */
 a {
-  color: #565656;
+  color: #F7C6D1;
   text-decoration: none; }
   a:visited {
-    color: #565656; }
+    color: #F7C6D1; }
   a:hover {
-    color: #111;
-    text-decoration: none; 
+    color: #F7C6D1;
+    text-decoration: 1px solid #F7C6D1; 
     /*border-bottom: 6px solid #F7C6D1; */
   }
   .social-media-list a:hover {
@@ -173,15 +174,15 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(900px - (30px * 2));
-  max-width: calc(900px - (30px * 2));
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; 
 }
 
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 800px) {
     .wrapper {
       max-width: -webkit-calc(800px - (30px));
       max-width: calc(800px - (30px));
@@ -376,6 +377,7 @@ table {
   font-size: 16px;
   font-weight: 400;
   color: #CCC; 
+  padding: 0 8px;
 }
 .post-meta p{
   margin: 0;
