@@ -47,6 +47,11 @@ h1, h2, h3 {
 h1{
   font-size: 2.8rem;
 }
+h2{
+  margin: 0px;
+  font-size: 32px;
+  font-weight: 450;
+}
 
 h3{
   margin: 36px 0px 12px;
@@ -375,7 +380,6 @@ table {
 
 .post-link {
   display: block;
-  font-weight: 450;
   color: #111;
   font-size: 32px;
   margin: 8px 0px 12px;
