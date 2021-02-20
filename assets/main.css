@@ -365,14 +365,16 @@ table {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   color: #CCC; 
 }
 
 .post-link {
   display: block;
-  font-size: 24px; }
+  font-size: 32px; 
+  font-weight: 450;
+}
 
 .post-link a{
   font-weight: 450;
