@@ -252,8 +252,12 @@ table {
   .site-title, .site-title:visited {
     color: #424242; }
 
+.site-title img{
+  border-radius: 50px;
+}
+
 .site-title img:hover{
-  box-shadow: 1px 1px 4px #F2F6F9;
+  box-shadow: 2px 2px 4px #F2F6F9;
 }
 
 .site-nav {
