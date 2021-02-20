@@ -49,6 +49,11 @@ h3{
   font-weight: 450;
 }
 
+strong {
+  color:#222;
+  font-weight:700;
+}
+
 /**
  * `main` element
  */
@@ -94,12 +99,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #267CB9;
+  color: #565656;
   text-decoration: none; }
   a:visited {
-    color: #267CB9; }
+    color: #565656; }
   a:hover {
-    color: #069;
+    color: #111;
     text-decoration: none; 
     /*border-bottom: 6px solid #F7C6D1; */
   }
@@ -350,6 +355,12 @@ table {
 .post-link {
   display: block;
   font-size: 24px; }
+
+.post-link a{
+  font-weight: 450;
+  color: #111;
+}
+
 
 /**
  * Posts
