@@ -381,16 +381,9 @@ table {
 }
 .post-meta {
   font-size: 16px;
-  font-weight: 500;
-  color: #CCCCCC; 
   padding: 0px 8px;
 }
 
-.post-meta p{
-  margin: none;
-  font-weight: 500;
-  color: #CCCCCC; 
-}
 
 .post-link {
   display: block;
@@ -400,6 +393,7 @@ table {
 
 span{
   color:#CCC;
+  font-weight: 500;
 }
 
 /**
