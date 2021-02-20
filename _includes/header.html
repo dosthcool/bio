@@ -26,6 +26,12 @@
             {%- if my_page.title -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
+
+            <p class="feed-subscribe">  
+      <a href="{{ 'feed.xml' | relative_url }}">  
+        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe</span> 
+      </a>  
+    </p>
           {%- endfor -%}
         </div>
       </nav>
