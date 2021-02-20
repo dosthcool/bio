@@ -27,8 +27,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h5, h6,
-p, pre,
+h5, h6,pre,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; 
@@ -376,6 +375,9 @@ table {
   font-size: 16px;
   font-weight: 400;
   color: #CCC; 
+}
+.post-meta p{
+  margin: 0;
 }
 
 .post-link {
