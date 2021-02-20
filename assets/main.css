@@ -398,7 +398,9 @@ table {
   margin: 8px 0px 12px;
 }
 
-
+span{
+  color:#CCC;
+}
 
 /**
  * Posts
