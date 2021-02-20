@@ -253,7 +253,7 @@ table {
     color: #424242; }
 
 .site-title img{
-  border-radius: 50px;
+  border-radius: 200px;
 }
 
 .site-title img:hover{
@@ -392,6 +392,9 @@ table {
   padding: 0px 8px;
 }
 
+.post-meta img{
+  border-radius: 200px;
+}
 
 .post-link {
   display: block;
