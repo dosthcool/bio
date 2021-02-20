@@ -7,12 +7,11 @@ permalink: /uxflow/
 excerpt_separator: <!--more-->
 ---
 
-![bg](https://dosthcool.github.io/blog/img/1_1.png)
-
 野路子和大厂流水线的设计流程不分好坏，只有适不适合。<br>
 这里只分享适合鄙人的方法，毕竟我一直单打独斗好多年，不沉淀点东西说不过去。<br>
 这个流程通常也可以运用于独立完成一个项目或者设计测试题。<br>
 > 设计思维是我的工具箱，设计流程是一套组合拳，要想致命就要选好组合。
+![bg](https://dosthcool.github.io/blog/img/1_1.png)
 
 <!--more-->
 
@@ -25,7 +24,7 @@ excerpt_separator: <!--more-->
 
 项目需要从什么环节开始什么环节结束？<br>设计的目的是什么？
 
-<!-- ![bg]({{ site.url }}/assets/img/1_2.png) -->
+![bg](https://dosthcool.github.io/blog/img/1_2.png)
 
 **设计任务通常有以下几种情况：**
 
