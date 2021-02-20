@@ -375,6 +375,10 @@ table {
 
 .post-link {
   display: block;
+  font-weight: 450;
+  color: #111;
+  font-size: 32px;
+  margin: 8px 0px 12px;
 }
 
 .post-link h3{
