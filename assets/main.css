@@ -402,7 +402,8 @@ table {
  * Posts
  */
 .post-header {
-  margin-bottom: 30px; }
+  /*margin-bottom: 30px; */
+}
 
 .post-title {
   font-size: 2.8rem;
