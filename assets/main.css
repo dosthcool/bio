@@ -50,7 +50,7 @@ h1{
 
 h2{
   margin: 0px;
-  font-size: 3rem;
+  font-size: 2.8rem;
   font-weight: 450;
 }
 
@@ -125,16 +125,13 @@ a {
   a:hover {
     color: #565656;
     /*text-decoration: 1px solid #565656; */
-    border-bottom: 1px solid #F7C6D1; 
+    /*border-bottom: 1px solid #F7C6D1; */
   }
 
   .social-media-list a:hover {
     text-decoration: none; }
     .social-media-list a:hover .username {
       text-decoration: none; }
-p a{
-  color:#111;
-}
 /**
  * Blockquotes
  */
@@ -376,11 +373,16 @@ table {
   .post-list > li {
     margin-bottom: 80px; }
 
+.post-list a{
+  color:#529BFD;
+}
+
+}
 .post-meta {
   font-size: 16px;
   font-weight: 400;
   color: #BBB; 
-  padding: 0 8px;
+  padding: 16px 0px;
 }
 .post-meta p{
   margin: 0;
