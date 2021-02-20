@@ -2,11 +2,10 @@
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
+p, pre, hr,
 dl, dd, ol, ul, figure {
-  margin: 0 0 10px;
+  /*margin: 0 0 20px;*/
   padding: 0; 
-  line-height:1.05;
 }
 
 /**
@@ -14,7 +13,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #727272;
+  color: #222;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -30,15 +29,25 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+p, pre,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
 
-h1, h2, h3 {
-  line-height:1.05;
+p{
+  padding: 2px 0px 16px;
+  font-size: 16px;
+  line-height: 1.8;
 }
 
+h1, h2, h3 {
+  line-height:1.5;
+}
+
+h3{
+  margin: 36px 0px 12px;
+  font-weight: 450;
+}
 
 /**
  * `main` element
@@ -92,7 +101,7 @@ a {
   a:hover {
     color: #069;
     text-decoration: none; 
-    border-bottom: 6px solid #F7C6D1; 
+    /*border-bottom: 6px solid #F7C6D1; */
   }
   .social-media-list a:hover {
     text-decoration: none; }
@@ -102,16 +111,7 @@ a {
 /**
  * Blockquotes
  */
-/*blockquote {
-  color: #828282;
-  border-left: 4px solid #e8e8e8;
-  padding-left: 15px;
-  font-size: 18px;
-  letter-spacing: -1px;
-  font-style: italic; }
-  blockquote > :last-child {
-    margin-bottom: 0; }
-*/
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
