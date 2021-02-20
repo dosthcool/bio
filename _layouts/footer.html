@@ -19,6 +19,13 @@
           {% endif -%}
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            <li>
+              <p class="feed-subscribe">  
+      <a href="{{ 'feed.xml' | relative_url }}">  
+        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>订阅我</span> 
+      </a>  
+    </p>
+            </li>
           {%- endif %}
         </ul>
       {%- endif %}
