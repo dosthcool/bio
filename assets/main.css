@@ -366,7 +366,9 @@ table {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  font-weight: 400;
+  color: #CCC; 
+}
 
 .post-link {
   display: block;
