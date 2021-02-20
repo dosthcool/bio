@@ -4,7 +4,6 @@
 body, h1, h2, h3, h4, h5, h6,
 p, pre, hr,
 dl, dd, ol, ul, figure {
-  /*margin: 0 0 20px;*/
   padding: 0; 
 }
 
@@ -28,7 +27,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
+h5, h6,
 p, pre,
 ul, ol, dl, figure,
 .highlight {
@@ -55,6 +54,7 @@ h3{
 
 h4{
   margin: 36px 0px 8px;
+  font-weight: 450;
 }
 
 strong {
@@ -102,7 +102,6 @@ li > ol {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400; 
-  margin: 0 0 10px;
 }
 
 /**
@@ -372,12 +371,10 @@ table {
 
 .post-link {
   display: block;
-  font-size: 32px; 
-  font-weight: 450;
 }
 
 .post-link h3{
-  font-weight: 450;
+  font-weight: 400;
   color: #111;
   font-size: 32px;
   margin: 8px 0px 12px;
