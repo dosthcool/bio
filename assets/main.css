@@ -42,11 +42,16 @@ p{
 
 h1, h2, h3 {
   line-height:1.5;
+  font-weight: 450;
 }
 
 h3{
   margin: 36px 0px 12px;
   font-weight: 450;
+}
+
+h4{
+  margin: 36px 0px 8px;
 }
 
 strong {
@@ -66,7 +71,9 @@ main {
  */
 img {
   max-width: 100%;
-  vertical-align: middle; }
+  vertical-align: middle; 
+  margin: 32px 0px;
+}
 
 /**
  * Figures
