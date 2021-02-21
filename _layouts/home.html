@@ -30,7 +30,12 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h1>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta">
+          <span style="padding: 8px 12px;background-color: #CCC;color: #222;">
+            Moon
+          </span>
+        {{ post.date | date: date_format }}
+      </span>
         <!-- <p>{{ post.excerpt }}</p> -->
         {{ post.excerpt }}
         <div style="margin-top: 16px;">
