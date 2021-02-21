@@ -119,10 +119,10 @@ h5, h6 {
  * Links
  */
 a {
-  color: #565656;
+  color: #222;
   text-decoration: none; }
   a:visited {
-    color: #565656; }
+    color: #222; }
   a:hover {
     color: #565656;
     /*text-decoration: 1px solid #565656; */
