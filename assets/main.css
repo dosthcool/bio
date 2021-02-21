@@ -410,12 +410,12 @@ span{
 
 .readmore{
   border-radius: 8px;
-  background-color: #111;
+  background-color: #222;
   margin-top: 12px;
 }
 
 .readmore:hover{
-  box-shadow: 4px 4px 0px #F2F6F9;
+  box-shadow: 4px 4px 0px #222;
 }
 
 /**
