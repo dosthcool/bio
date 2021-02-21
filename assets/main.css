@@ -408,6 +408,13 @@ span{
   font-weight: 500;
 }
 
+.readmore{
+  padding: 8px 24px;
+  border-radius: 8px;
+  background-color: #111;
+  color: #FFF;
+}
+
 /**
  * Posts
  */

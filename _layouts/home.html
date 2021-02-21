@@ -33,6 +33,11 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <!-- <p>{{ post.excerpt }}</p> -->
         {{ post.excerpt }}
+        <div class="readmore">
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <span>查看全文</span>
+          </a>
+        </div>
       </li>
       {%- endfor -%}
     </ul>
