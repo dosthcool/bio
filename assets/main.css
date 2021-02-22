@@ -409,8 +409,8 @@ span{
 }
 
 .readmore{
-  border-radius: 8px;
-  background-color: #222;
+  border-radius: 16px;
+  background-color: #ECECEC;
   margin-top: 12px;
 }
 
