@@ -257,7 +257,7 @@ table {
 }
 
 .site-title img:hover{
-  box-shadow: 4px 4px 0px #222;
+  box-shadow: 3px 3px 0px #F7C6D1;
 }
 
 .site-nav {
@@ -418,13 +418,14 @@ table {
 }
 
 span{
-  color:rgb(168, 164, 164);
+  /* color:#a8a4a4; */
+  color: #B38F97;
   font-weight: 500;
 }
 
 .readmore{
   border-radius: 40px;
-  background-color: #ECECEC;
+  background-color: #FFF5F8;
   margin-top: 12px;
 }
 
