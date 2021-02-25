@@ -385,19 +385,19 @@ table {
 
     /* 文章中的超链接 */ 
 .post-list p > a{
-  color:#529BFD;
+  color:#a91b4d;
 }
 
 .post-list p > a:hover{
-  color: #3b8efc;
+  color: #a91b4db6;
 }
 
 .post-content p > a{
-  color: #529BFD;
+  color: #a91b4d;
 }
 
 .post-content p > a:hover{
-  color: #3b8efc;
+  color: #a91b4db6;
 }
 
 }
