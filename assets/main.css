@@ -382,7 +382,7 @@ table {
   .post-list > li {
     margin-bottom: 80px; }
 
-.post-list p > a{
+.post-list,.post-content p > a{
   color:#529BFD;
 }
 
