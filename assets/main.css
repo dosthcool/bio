@@ -404,12 +404,12 @@ table {
 }
 
 span{
-  color:#CCC;
+  color:rgb(168, 164, 164);
   font-weight: 500;
 }
 
 .readmore{
-  border-radius: 16px;
+  border-radius: 40px;
   background-color: #ECECEC;
   margin-top: 12px;
 }
