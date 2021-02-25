@@ -382,8 +382,12 @@ table {
   .post-list > li {
     margin-bottom: 80px; }
 
-.post-list,.post-content p > a{
+.post-list p > a{
   color:#529BFD;
+}
+
+.post-content p > a{
+  color: #529BFD;
 }
 
 }
