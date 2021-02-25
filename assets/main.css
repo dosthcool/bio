@@ -382,12 +382,22 @@ table {
   .post-list > li {
     margin-bottom: 80px; }
 
+
+    /* 文章中的超链接 */ 
 .post-list p > a{
   color:#529BFD;
 }
 
+.post-list p > a:hover{
+  color: #3b8efc;
+}
+
 .post-content p > a{
   color: #529BFD;
+}
+
+.post-content p > a:hover{
+  color: #3b8efc;
 }
 
 }
