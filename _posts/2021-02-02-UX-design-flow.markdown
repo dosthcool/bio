@@ -5,7 +5,13 @@ date:   2021-02-02 00:15:52 +0100
 categories: design
 permalink: /uxflow/
 excerpt_separator: <!--more-->
+toc:
+  depth_from: 1
+  depth_to: 6
+  ordered: false
 ---
+
+[TOC]
 
 野路子和大厂流水线的设计流程不分好坏，只有适不适合。<br>
 这里只分享适合鄙人的方法，毕竟我一直单打独斗好多年，不沉淀点东西说不过去。<br>
