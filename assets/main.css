@@ -42,6 +42,10 @@ p{
   margin: 0px;
 }
 
+/**
+ * Headings
+ */
+
 h1, h2{
   line-height:1.5;
   font-weight: 450;
@@ -68,7 +72,7 @@ h4{
 
 h5{
   font-size: 1.2rem;
-  /* font-weight: 600; */
+  font-weight: 600;
   background-color: #eecece;
   padding: 2px 0px;
 }
@@ -116,12 +120,7 @@ li > ol {
   line-height: 2;
 }
 
-/**
- * Headings
- */
-h5, h6 {
-  font-weight: 400; 
-}
+
 
 /**
  * Links
