@@ -123,7 +123,7 @@ ul, ol {
 li > ul,
 li > ol {
   margin-bottom: 0; 
-  line-height: 0.15rem;
+  line-height: 2.5;
 }
 
 
