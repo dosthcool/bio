@@ -30,7 +30,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-paginate: 3 
 excerpt_separator: <!--more-->
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
