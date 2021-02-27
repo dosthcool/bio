@@ -7,6 +7,10 @@ dl, dd, ol, ul, figure {
   padding: 0; 
 }
 
+h3,h4,h5,h6{
+  color: #e17272;
+}
+
 /**
  * Basic styling
  */
@@ -78,9 +82,9 @@ h5{
 }
 
 h6{
-  font-size: 1rem;
+  font-size: 2rem;
   font-size: 600;
-  color: #555;
+  color: #e17272;
 }
 
 strong {
@@ -123,7 +127,7 @@ ul, ol {
 li > ul,
 li > ol {
   margin-bottom: 0; 
-  line-height: 2.5;
+  line-height: 2;
 }
 
 
