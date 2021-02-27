@@ -1,5 +1,9 @@
 <header class="site-header">
-
+  <div class="blogheader">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      <img src="https://dosthcool.github.io/blog/header.png" style="width: 120px;">
+    </a>
+  </div>
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}

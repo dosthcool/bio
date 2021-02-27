@@ -29,7 +29,7 @@ comments: true
 早上我不会设置闹钟，通常自然醒。
 - 8:20 起床打卡英语。
 - 8:40 洗漱后吃早饭。
-- 9:00 自媒体输出时间。背景是YouTube上的“Caroline McCready Meditation”的冥想音乐视频。
+- 9:00 自媒体输出时间。背景是YouTube上的“[Caroline McCready Meditation](https://www.youtube.com/channel/UCDRC-dZfZvsF9b1O1EvDbHQ)”的冥想音乐视频。
 - 10:00 Keep 肩颈放松。
 - 10:05 约人出游或者继续自媒体。
 
@@ -67,5 +67,3 @@ comments: true
     - 天气好就去家附近的小区公园转一圈。
     - 天气不好就在家和朋友连线下五子棋或者从“Notion”上找一个事情做。
 - 20:30 开始执行晚间惯例。
-
-
