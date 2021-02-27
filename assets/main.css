@@ -71,10 +71,16 @@ h4{
 }
 
 h5{
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 700;
   /* background-color: #eecece;
   padding: 2px 8px; */
+}
+
+h6{
+  font-size: 1rem;
+  font-size: 600;
+  color: #555;
 }
 
 strong {
@@ -117,7 +123,7 @@ ul, ol {
 li > ul,
 li > ol {
   margin-bottom: 0; 
-  line-height: 2;
+  line-height: 0.15rem;
 }
 
 
