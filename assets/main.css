@@ -68,7 +68,8 @@ h4{
 
 h5{
   /* font-size: larger; */
-  font-weight: 450;
+  font-weight: 600;
+  background-color: #e3d2d2;
 }
 
 strong {
