@@ -67,9 +67,10 @@ h4{
 }
 
 h5{
-  /* font-size: larger; */
-  font-weight: 600;
-  background-color: #e3d2d2;
+  font-size: 1.2rem;
+  /* font-weight: 600; */
+  background-color: #eecece;
+  padding: 2px 0px;
 }
 
 strong {
