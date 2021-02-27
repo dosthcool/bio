@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "我第一个成功安装的博客！"
+title:  "我的Jekyll静态博客！"
 date:   2021-02-18 00:15:52 +0100
 categories: code
 permalink: /setup-blog/
