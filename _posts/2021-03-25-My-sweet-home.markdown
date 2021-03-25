@@ -22,3 +22,11 @@ toc:
 ![bg](https://dosthcool.github.io/blog/img/home2.jpg)
 
 #### 10.8
+国庆节前我买了一堆家具，2020年的国庆算是我正式开始极简的一个起点。
+![bg](https://dosthcool.github.io/blog/img/home3.jpg)
+
+![bg](https://dosthcool.github.io/blog/img/home4.jpg)
+
+![bg](https://dosthcool.github.io/blog/img/home5.jpg)
+
+![bg](https://dosthcool.github.io/blog/img/home6.jpg)
