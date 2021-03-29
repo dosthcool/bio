@@ -64,7 +64,7 @@ toc:
 
 #### 3.27
 等床的快递期间，我尝试了一下睡在地板上的感觉，说真的还不错，不过住在一楼睡地板会很潮湿，也有可能虫子爬上来😨。
-![bg](https://dosthcool.github.io/blog/img/home11.jpg)![bg](https://dosthcool.github.io/blog/img/home11.jpg)
+![bg](https://dosthcool.github.io/blog/img/home11.jpg)
 
 #### 3.28
 快递一早来了，我赶紧装好床，突发奇想问老爸要来灯泡串在床底下，样子不要太好。
