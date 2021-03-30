@@ -68,4 +68,4 @@ toc:
 
 #### 3.28
 快递一早来了，我赶紧装好床，突发奇想问老爸要来灯泡串在床底下，样子不要太好。
-![bg](https://dosthcool.github.io/blog/img/home12.jpg)
+![bg](https://dosthcool.github.io/blog/img/home12.JPG)
