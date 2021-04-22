@@ -45,7 +45,8 @@ toc:
 
 为不同的情况安排具体的设计思路，这里分享一个**双钻模型**，这个模型时不时会拿出来看一下。
 
-![bg]({{ site.url }}/assets/img/1_3.png)
+![bg](blog.dosth.cool/assets/img/1_3.png)
+
 
 
 ### 3. 数据报告
