@@ -22,7 +22,7 @@ toc:
 
 
 
-![bg](https://dosthcool.github.io/blog/img/1_1.png)
+![bg](https://blog.dosth.cool/assets/img/1_1.png)
 
 
 
@@ -35,7 +35,7 @@ toc:
 
 项目需要从什么环节开始什么环节结束？<br>设计的目的是什么？
 
-![bg](https://dosthcool.github.io/blog/img/1_2.png)
+![bg](https://blog.dosth.cool/assets/img/1_2.png)
 
 **设计任务通常有以下几种情况：**
 
@@ -73,7 +73,7 @@ toc:
 教育类的公众号比如：「多鲸」、「Edu指南」，如果有线下会展，也可以选择感兴趣的去参加旁听。<br>
 通常我会整理出目标用户的一些数据，**可视化**它们，方便团队内成员参考。
 
-![bg](https://dosthcool.github.io/blog/img/1_4.png)
+![bg](https://blog.dosth.cool/assets/img/1_4.png)
 
 ### 4. 竞品分析
 
@@ -81,7 +81,7 @@ toc:
 我会选取一部分比较核心的列举在我的产品文档中。<br>
 **产品解决了的痛点 / 竞争优势 / 启发式评估**
 
-![bg](https://dosthcool.github.io/blog/img/1_5.png)
+![bg](https://blog.dosth.cool/assets/img/1_5.png)
 
 #### 产出行业报告
 
@@ -91,7 +91,7 @@ toc:
 > 我很期待看你写的，在那么多同学中，你是最理性的人，好好消化，不是滥用或照搬那些文字，而是自己消化之后，对他们理解后，**用自己的思路去阐述**
 > 而且，重要的并不是别人怎么看或是书上怎么评价，我想看到的是，你怎么看，有好有坏。
 
-![bg](https://dosthcool.github.io/blog/img/1_6.png)
+![bg](https://blog.dosth.cool/assets/img/1_6.png)
 
 ### 5. 用户调研
 
@@ -101,7 +101,7 @@ toc:
 
 当目标用户群有2种以上时，需要对用户组进行优先级筛选，这时可以倒退回去重新整理数据报告，也可以为后面的用户分组做铺垫。
 
-![bg](https://dosthcool.github.io/blog/img/1_9.png)
+![bg](https://blog.dosth.cool/assets/img/1_9.png)
 
 #### 大胆假设
 
@@ -110,13 +110,13 @@ toc:
 1. 初步假设用户的分类，记录好自己分类的依据和思考过程。
 2. 自我代入不同的用户角色后，想象自己在具体的场景下会看到、听到和想到什么东西。
 
-![bg](https://dosthcool.github.io/blog/img/1_7.png)
+![bg](https://blog.dosth.cool/assets/img/1_7.png)
 
 #### 定性调研和定量调研
 
 基础性的理论不具体展开说，我们可以在定性调研中获取接下去的设计灵感，在定量调研中确认自己的方向没有走偏。
 
-![bg](https://dosthcool.github.io/blog/img/1_8.png)
+![bg](https://blog.dosth.cool/assets/img/1_8.png)
 
 #### 设计用户画像
 
@@ -124,13 +124,13 @@ toc:
 用户画像对整个项目有重要的作用，当我在写需求做交互画视觉的时候，我会觉得我在为**具体的人**服务，而不是在为我自己，这个很重要。<br>
 产品设计师不应该只为了表现自己，或将喜好强加于他人。<br>
 
-![bg](https://dosthcool.github.io/blog/img/1_10.png)
+![bg](https://blog.dosth.cool/assets/img/1_10.png)
 
 #### 用户故事
 
 不管是用户体验地图还是同理心地图，要体现的都是用户的感受，使用什么工具取决于你的产品目标和定位。<br>
 
-![bg](https://dosthcool.github.io/blog/img/1_11.png)
+![bg](https://blog.dosth.cool/assets/img/1_11.png)
 
 最基础的东西少不了，模拟或记录一个用户从被服务前到服务后的全过程，其中不同环节中的**用户痛点**（让他情绪变糟的事件）以及**机会点**（可能会让用户情绪180度转变或心情更好印象更深的事件）。
 
