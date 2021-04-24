@@ -267,15 +267,20 @@ table {
 .site-header {
   min-height: 55.95px;
   width: 100%;
-  position: relative; }
+  position: relative; 
+  margin:0 auto;
+}
 
 .site-title {
-  font-size: 26px;
+  /* font-size: 26px;
   font-weight: 300;
   line-height: 54px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: center; }
+  float: center;  */
+  margin:0 auto;
+}
+
   .site-title, .site-title:visited {
     color: #424242; }
 
