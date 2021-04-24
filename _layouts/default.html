@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+  <!-- {%- include head.html -%} -->
 
   <body>
+    <div class="blogheader">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+        <div style="display: block;"><img src="https://blog.dosth.cool/assets/img/header.png" style="width: 100px;border: 1px #bbb;"></div>
+        
+      </a>
+    </div>
 
     {%- include header.html -%}
 
