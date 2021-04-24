@@ -195,6 +195,7 @@ pre > code {
 .blogheader{
   /* position: fixed; */
   margin: 24px;
+  align-content: center;
 }
 
 /**
