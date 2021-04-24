@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 今年开始尝试电子阅读方式，断舍离掉一半的纸质书籍。
 
-
+![bg](https://blog.dosth.cool/assets/img/read.png)
 <!--more-->
 
 ### 我决定简单地生活-佐佐木典士
