@@ -269,6 +269,7 @@ table {
   width: 100%;
   position: relative; 
   margin:0 auto;
+  align-content: center;
 }
 
 .site-title {
@@ -280,6 +281,7 @@ table {
   float: center;  */
   margin:0 auto;
   width: 100%;
+  align-content: center;
 }
 
   .site-title, .site-title:visited {
