@@ -193,7 +193,7 @@ pre > code {
 }
 
 .blogheader{
-  position: fixed;
+  /* position: fixed; */
   margin: 24px;
 }
 
