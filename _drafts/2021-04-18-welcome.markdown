@@ -6,9 +6,8 @@ excerpt_separator: <!--more-->
 ---
 ![bg](https://blog.dosth.cool/assets/img/read.png)
 
-今年开始尝试电子阅读方式，断舍离掉一半的纸质书籍。
+今年开始尝试电子阅读方式，断舍离掉一半的纸质书籍。主要使用微信读书、iBook和其他听书软件。
 
-主要使用微信读书、iBook和其他听书软件。
 <!--more-->
 
 ### 我决定简单地生活-佐佐木典士
