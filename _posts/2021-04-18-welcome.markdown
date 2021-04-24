@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "2021年阅读笔记"
+title:  "阅读笔记"
 date:   2021-04-20 08:15:52 +0100
-categories: code
-permalink: /setup-blog/
 excerpt_separator: <!--more-->
 ---
-今年开始尝试电子阅读方式，断舍离掉一半的纸质书籍。
-
 ![bg](https://blog.dosth.cool/assets/img/read.png)
 
+今年开始尝试电子阅读方式，断舍离掉一半的纸质书籍。
+
+主要使用微信读书、iBook和其他听书软件。
 <!--more-->
 
 ### 我决定简单地生活-佐佐木典士
