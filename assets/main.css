@@ -276,7 +276,7 @@ table {
   line-height: 54px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left; }
+  float: center; }
   .site-title, .site-title:visited {
     color: #424242; }
 
