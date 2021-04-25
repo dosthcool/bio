@@ -402,7 +402,7 @@ table {
  * Page content
  */
 .page-content {
-  padding: 0px;
+  padding-top: 16px;
   flex: 1; }
 
 .page-heading {
