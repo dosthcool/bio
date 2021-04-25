@@ -20,8 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Minimalism Lifestyle
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dosth.cool" # the base hostname & protocol for your site, e.g. http://example.com
-website: "dosth.cool"
-# github_username:  jekyll
+github_username:  dosthcool
 permalink: pretty
 
 # Build settings
