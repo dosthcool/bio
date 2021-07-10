@@ -7,8 +7,6 @@ excerpt_separator: <!--more-->
 
 ![bg](https://blog.dosth.cool/assets/img/1.png)
 
-![bg](/1.png)
-
 <!--more-->
 
 大家都觉得2020年是不详之年，一年里事件不断。
