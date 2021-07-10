@@ -69,7 +69,7 @@ h3{
   font-weight: 200;
   margin-bottom: 0px;
   font-size: 36px;
-  font-family: monospace;
+  font-family: Roboto;
 }
 
 h4{
@@ -80,10 +80,10 @@ h4{
 }
 
 h5{
-  font-size: 1.2rem;
-  font-weight: 400;
+  font-size: 1rem;
+  font-weight: 200;
   text-align: center;
-  padding: 2px 8px;
+  /* padding: 2px 8px; */
 }
 
 h6{
@@ -100,14 +100,15 @@ em, i{
   color:#faa;
 }
 
-----------
-可根据markdown的实现自己的**个性化**标记
-@strong-char: "**";  /*可以将着重符号替换为自己的个性化符号*/
+/* 可根据markdown的实现自己的**个性化**标记 */
+
+@strong-char : "**";  /* 可以将着重符号替换为自己的个性化符号 */
 strong:before, strong:after {
     content: @strong-char;
     display: inline;
 }
-@em-char: "*";   
+
+@em-char : "*";   
 em:before, em:after {
     content: @em-char;
     display: inline;
