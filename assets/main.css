@@ -65,25 +65,25 @@ h2{
 }
 
 h3{
-  /* margin: 36px 0px 12px; */
   font-weight: 200;
   margin-bottom: 0px;
+  margin-top: 80px;
   font-size: 4rem;
   font-family:monospace;
 }
 
 h4{
-  /* margin: 36px 0px 8px; */
   font-weight: 500;
-  font-size: 3rem;
+  font-size: 48px;
   margin-top: 0px;
+  margin-bottom: 36px;
 }
 
 h5{
-  font-size: 1.5rem;
-  font-weight: 200;
+  font-size: 1rem;
+  font-weight: 300;
   text-align: center;
-  /* padding: 2px 8px; */
+  padding: 16px 16px;
 }
 
 h6{
