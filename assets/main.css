@@ -66,7 +66,7 @@ h2{
 
 h3{
   /* margin: 36px 0px 12px; */
-  /* font-weight: 450; */
+  font-weight: 100;
   margin-bottom: 0px;
   font-size: 3.1rem;
 }
@@ -82,8 +82,7 @@ h5{
   font-size: 2.4rem;
   font-weight: 700;
   text-align: center;
-  /* background-color: #eecece;
-  padding: 2px 8px; */
+  padding: 2px 8px;
 }
 
 h6{
