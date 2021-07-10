@@ -8,7 +8,7 @@ dl, dd, ol, ul, figure {
 }
 
 h3,h4,h5,h6{
-  color: #a91b4d;
+  color: #c65157;
 }
 
 /**
@@ -87,9 +87,13 @@ h6{
   /* color: #e17272; */
 }
 
-strong {
+strong,  b{
   color:#000000CC;
   font-weight:700;
+}
+
+em, i{
+  color:#faa;
 }
 
 /**
@@ -164,7 +168,7 @@ blockquote {
 
 blockquote p{
   font-size: 18px;
-  color: rgb(255, 246, 246);
+  color: rgb(201, 175, 175);
   line-height: 1.6;
 }
 
