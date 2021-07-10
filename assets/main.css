@@ -155,7 +155,9 @@ figcaption {
 ul, ol {
   margin-left: 32px;
   list-style-type: circle; 
-  line-height: 2;
+  line-height: 2.4;
+  font-size: 1.2rem;
+  color: #6b4545;
 }
 
 li > ul,
