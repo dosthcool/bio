@@ -98,6 +98,7 @@ strong,  b{
 
 em, i{
   color:#faa;
+  background-color: #fdd;
 }
 
 /* 可根据markdown的实现自己的**个性化**标记 */
