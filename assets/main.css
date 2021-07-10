@@ -164,7 +164,7 @@ blockquote {
 
 blockquote p{
   font-size: 18px;
-  color: #888;
+  color: rgb(255, 246, 246);
   line-height: 1.6;
 }
 
