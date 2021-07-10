@@ -100,6 +100,19 @@ em, i{
   color:#faa;
 }
 
+----------
+可根据markdown的实现自己的**个性化**标记
+@strong-char: "**";  /*可以将着重符号替换为自己的个性化符号*/
+strong:before, strong:after {
+    content: @strong-char;
+    display: inline;
+}
+@em-char: "*";   
+em:before, em:after {
+    content: @em-char;
+    display: inline;
+}
+
 /**
  * `main` element
  */
