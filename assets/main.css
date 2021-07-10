@@ -153,7 +153,8 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 30px; 
+  margin-left: 30px;
+  list-style-type: circle; 
 }
 
 li > ul,
