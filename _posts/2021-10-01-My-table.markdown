@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我在家办公的极简工作"
-date:   2021-10-01 00:15:52 +0100
+date:   2021-09-25 00:15:52 +0100
 excerpt_separator: <!--more-->
 ---
 ![bg](https://blog.dosth.cool/assets/img/6.png)
