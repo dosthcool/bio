@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "两个手就能推动的床以及我的奇葩睡眠习惯"
-date:   2021-09-21 00:15:52 +0100
+title:  "我的极简床以及奇葩睡眠习惯"
+date:   2021-09-25 00:15:52 +0100
 excerpt_separator: <!--more-->
 ---
 ![bg](https://blog.dosth.cool/assets/img/5.png)
