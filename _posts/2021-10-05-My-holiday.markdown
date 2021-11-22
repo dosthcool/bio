@@ -51,3 +51,5 @@ excerpt_separator: <!--more-->
 #### 回顾
 
 充实的不像话的国庆节，累了就睡，饿了就吃，有空就散步，*我的极简衣橱都有点不够用了*，因为每天都要换衣服2333～
+
+![bg](https://blog.dosth.cool/assets/img/end.png)
