@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "简化生活"
+title:  "12月的简化生活"
 date:   2021-10-05 00:15:52 +0100
 excerpt_separator: <!--more-->
 ---
@@ -56,7 +56,6 @@ excerpt_separator: <!--more-->
 
 2022年，我想挑战一下不增加服装类产品的数量。
 
-### 02
 
 #### 重回纸质阅读
 
@@ -77,8 +76,6 @@ excerpt_separator: <!--more-->
 每个月我还会去男友家淘他的书带回来看，他家的书还挺多，虽然技术书为主哈哈哈。
 
 
-### 03
-
 #### 本周手帐
 
 在尝试过电子手帐之后，我又开了一本纸质手帐，用来**收集阅读中值得反复品味的句子**。
@@ -86,3 +83,8 @@ excerpt_separator: <!--more-->
 
 
 ![bg](https://blog.dosth.cool/assets/img/end.png)
+
+### 02
+
+#### 退休计划
+
