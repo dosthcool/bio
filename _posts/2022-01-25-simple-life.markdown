@@ -4,6 +4,9 @@ title:  "2022 Flag"
 date:   2022-01-25 00:15:52 +0100
 excerpt_separator: <!--more-->
 ---
+![bg](https://blog.dosth.cool/assets/img/10.png)
+
+<!--more-->
 
 ### 01
 #### 物质
