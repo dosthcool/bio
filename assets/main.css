@@ -231,7 +231,7 @@ pre > code {
 }
 
 .blogheader{
-  /* position: fixed; */
+  position: fixed;
   /* margin-bottom: 24px; */
   align-content: center;
   margin:0 auto
