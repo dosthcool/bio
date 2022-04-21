@@ -503,12 +503,13 @@ span{
 }
 
 .readmore{
-  border-radius: 20px;
-  background-color: #FFF5F8;
+  border-radius: 30px;
+  background-color: #fff5f8a4;
   margin-top: 16px;
   position: relative; 
-  color: #B38F97;
+  color: #b38f977f;
   font-weight: 500;
+  padding: 8px 0px;
 }
 
 .readmore:hover{
