@@ -234,9 +234,9 @@ pre > code {
   position: fixed;
   margin-top: 0px;
   width: 100%;
-  /* align-content: center; */
+  align-content: center;
   margin:0 auto;
-  /* background-color: #ffffff6a; */
+  background-color: #ffffff6a;
 }
 
 /**
@@ -310,7 +310,7 @@ table {
   width: 100%;
   position: relative; 
   margin:0 auto;
-  /* align-content: center; */
+  align-content: center;
 }
 
 .site-title {
