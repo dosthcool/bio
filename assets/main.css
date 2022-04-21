@@ -236,7 +236,7 @@ pre > code {
   width: 100%;
   /* align-content: center; */
   margin:0 auto;
-  background-color: #ffffff6a;
+  /* background-color: #ffffff6a; */
 }
 
 /**
@@ -304,12 +304,13 @@ table {
 /**
  * Site header
  */
+
 .site-header {
   min-height: 55.95px;
   width: 100%;
   position: relative; 
   margin:0 auto;
-  align-content: center;
+  /* align-content: center; */
 }
 
 .site-title {
