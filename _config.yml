@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Moon Blog
 author: Cho Moon
-email: chomoon@qq.com
+# email: chomoon@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Minimalism Lifestyle
+   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dosth.cool" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dosthcool
