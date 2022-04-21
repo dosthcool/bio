@@ -499,9 +499,9 @@ span{
 }
 
 .readmore{
-  border-radius: 20px;
+  border-radius: 12px;
   background-color: #FFF5F8;
-  margin-top: 12px;
+  margin-top: 16px;
 }
 
 .readmore:hover{
