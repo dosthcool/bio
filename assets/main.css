@@ -41,7 +41,7 @@ ul, ol, dl, figure,
 
 p{
   padding: 12px 0px 12px;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.9;
   margin: 0px;
 }
@@ -334,7 +334,7 @@ table {
 }
 
 .site-nav {
-  float: right;
+  float: left;
   line-height: 54px; }
   .site-nav .nav-trigger {
     display: none; }
@@ -356,7 +356,7 @@ table {
       text-align: right; }
       .site-nav label[for="nav-trigger"] {
         display: block;
-        float: right;
+        float: left;
         width: 36px;
         height: 36px;
         z-index: 2;
