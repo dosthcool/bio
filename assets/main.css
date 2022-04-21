@@ -232,10 +232,11 @@ pre > code {
 
 .blogheader{
   position: fixed;
-  /* margin-bottom: 24px; */
-  align-content: center;
+  margin-top: 0px;
+  width: 100%;
+  /* align-content: center; */
   margin:0 auto;
-  background-color: #ffffff;
+  background-color: #ffffff6a;
 }
 
 /**
