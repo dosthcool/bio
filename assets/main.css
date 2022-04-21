@@ -507,6 +507,8 @@ span{
   background-color: #FFF5F8;
   margin-top: 16px;
   position: relative; 
+  color: #B38F97;
+  font-weight: 500;
 }
 
 .readmore:hover{
