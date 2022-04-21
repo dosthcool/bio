@@ -234,7 +234,8 @@ pre > code {
   position: fixed;
   /* margin-bottom: 24px; */
   align-content: center;
-  margin:0 auto
+  margin:0 auto;
+  background-color: #ffffff;
 }
 
 /**
