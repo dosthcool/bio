@@ -36,7 +36,7 @@ layout: default
       </span>
         <!-- <p>{{ post.excerpt }}</p> -->
         {{ post.excerpt }}
-        <div style="margin-top: 16px;">
+        <div style="margin-top: 16px;width: 100%;">
           <a href="{{ post.url | relative_url }}">
             <span class="readmore" style="color:#B38F97; padding: 12px 120px;width: 100%; ">查看全文</span>
           </a>
@@ -62,11 +62,7 @@ layout: default
         </ul>
       </div>
     {%- endif %}
-<p class="feed-subscribe">  
-      <a href="{{ 'feed.xml' | relative_url }}">  
-        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg>
-      </a>  
-    </p>
+
   {%- endif -%}
 
 </div>
