@@ -15,7 +15,7 @@ h3,h4,h5,h6{
  * Basic styling
  */
 body {
-  font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 17px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #565656;
   background-color: #FFF;
   letter-spacing: 1px;
@@ -55,7 +55,7 @@ p{
   color: #222222;
   padding: 0px;
   margin: 0px;
-  font-weight: 400;
+  font-weight: 500;
  }
 
 h1{
@@ -158,7 +158,7 @@ ul, ol {
   list-style-type: circle; 
   line-height: 2.4;
   font-weight: 400;
-  color: #775b5b;
+  color: #565656;
 }
 
 li > ul,
@@ -499,7 +499,7 @@ span{
 }
 
 .readmore{
-  border-radius: 40px;
+  border-radius: 20px;
   background-color: #FFF5F8;
   margin-top: 12px;
 }
