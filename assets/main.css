@@ -322,7 +322,7 @@ table {
   float: center;  */
   margin:0 auto;
   width: 100%;
-  align-content: center;
+  /* align-content: center; */
 }
 
   .site-title, .site-title:visited {
@@ -332,9 +332,9 @@ table {
   border-radius: 200px;
 }
 
-.site-title img:hover{
+/* .site-title img:hover{
   box-shadow: 3px 3px 0px #FFF5F8;
-}
+} */
 
 .site-nav {
   float: left;
