@@ -9,6 +9,9 @@ excerpt_separator: <!--more-->
 
 ### 活力
 
-<audio src="../assets/audio/pr01.wav"> ???
-</audio>
-
+<audio
+        controls
+        src="../assets/audio/pr01.wav">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
