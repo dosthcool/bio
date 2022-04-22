@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 
 我很怀念那个时候的无聊，坐在路程半小时的公交车上，不刷手机，只是看着窗外静静发呆也能让我很享受。
 
-![bg](../assets/img/end.png)
+![bg](https://blog.dosth.cool/assets/img/end.png)
 
 虽然发呆会让我看起来很笨的样子，好像不太聪明的样子，不过只有发呆一个人的时候，我才更能感受到生活带来的源源不断的**创造力**。
 

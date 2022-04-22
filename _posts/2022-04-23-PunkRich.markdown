@@ -5,14 +5,15 @@ date:   2022-04-22 00:15:52 +0100
 excerpt_separator: <!--more-->
 ---
 
-由本人录制的混音歌曲集。
+由本人录制的混音歌曲集，希望能唤醒你的耳朵和身体，一边听一边做深蹲或者负重运动还是不错的。
 
+<!--more-->
 
 ###### 活力
 
 <audio
         controls
-        src="../assets/audio/pr01.wav">
+        src="https://blog.dosth.cool/assets/audio/pr01.wav">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
