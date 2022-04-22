@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "PunkRich 音乐"
 date:   2022-04-22 00:15:52 +0100
 excerpt_separator: <!--more-->
