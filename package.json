@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vercel/node": "^2.15.10"
+  }
+}
